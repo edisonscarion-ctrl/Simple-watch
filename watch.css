@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: orange;
+}
+
+#time{
+    margin: 100px auto;
+    width: 600px;
+    height: 600px;
+    border-radius: 300px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#value{
+    padding-top: 200px;
+    font-size: 8rem;
+    font-family: 'Times New Roman', Times, serif;
+}
